@@ -1,8 +1,3 @@
-//https://www.youtube.com/watch?v=k4cDJkedAVk
-// Elisa Chagas Figueiredo    |  RA: 845357
-// Gustavo Blanco de Godoi    |  RA: 845972
-// Gabriela Andrade Oliveira  |  RA: 845967
-// Julia Mourão Gonçalves     |  RA: 845151
 package EP;
 import java.io.*;
 import java.util.Scanner;
